@@ -6,9 +6,6 @@
   "scripts": {
     "test": "fox"
   },
-  "devDependencies": {
-    "fox": "*"
-  },
   "keywords": [
     "node",
     "detection"
